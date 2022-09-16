@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirhossein
+- 👋 Hi, I’m amirhossein
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning machin learning
 - 📫 How to reach me jalilzadeamirhossein@yahoo.com
